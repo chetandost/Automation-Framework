@@ -1,0 +1,174 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>19/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Nov 21 15:59:39 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>180 seconds (180379 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='POM_Testcases.DWS_Tricentis.TC15()'><b>TC15</b><br>Test class: POM_Testcases.DWS_Tricentis</td>
+<td></td>
+<td>0</td>
+<td>POM_Testcases.DWS_Tricentis@5542c4ed</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_digitaldownload_Test.TC10()'><b>TC10</b><br>Test class: POM_Testcases.DWS_digitaldownload_Test</td>
+<td></td>
+<td>0</td>
+<td>POM_Testcases.DWS_digitaldownload_Test@1165b38</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_contact_us.TC02()'><b>TC02</b><br>Test class: POM_Testcases.DWS_contact_us<br>Parameters: CHETAN M  KUMAR, chetanmkumar97@gmail.com, null</td>
+<td></td>
+<td>1</td>
+<td>POM_Testcases.DWS_contact_us@327514f</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_Shopping_kart_Test.TC04()'><b>TC04</b><br>Test class: POM_Testcases.DWS_Shopping_kart_Test</td>
+<td></td>
+<td>0</td>
+<td>POM_Testcases.DWS_Shopping_kart_Test@1573f9fc</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_giftcards_Test.TC12()'><b>TC12</b><br>Test class: POM_Testcases.DWS_giftcards_Test</td>
+<td></td>
+<td>0</td>
+<td>POM_Testcases.DWS_giftcards_Test@815b41f</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_Books_Test.TC06()'><b>TC06</b><br>Test class: POM_Testcases.DWS_Books_Test</td>
+<td></td>
+<td>1</td>
+<td>POM_Testcases.DWS_Books_Test@1f2586d6</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_jewlry_select_Test.TC16()'><b>TC16</b><br>Test class: POM_Testcases.DWS_jewlry_select_Test<br>Parameters: 1, 1, 1</td>
+<td></td>
+<td>6</td>
+<td>POM_Testcases.DWS_jewlry_select_Test@2d1ef81a</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_Advance_Search_Test.TC18()'><b>TC18</b><br>Test class: POM_Testcases.DWS_Advance_Search_Test<br>Parameters: computers, 1, 1, 10000, 90000</td>
+<td></td>
+<td>2</td>
+<td>POM_Testcases.DWS_Advance_Search_Test@44c03695</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_voting_poll.TC14()'><b>TC14</b><br>Test class: POM_Testcases.DWS_voting_poll</td>
+<td></td>
+<td>0</td>
+<td>POM_Testcases.DWS_voting_poll@5b12b668</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_Register_Test.TC02()'><b>TC02</b><br>Test class: POM_Testcases.DWS_Register_Test<br>Parameters: Chetan, kumar, chetanmkumar070@gmail.com, chetan12, chetan12</td>
+<td></td>
+<td>1</td>
+<td>POM_Testcases.DWS_Register_Test@6150c3ec</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_Computers_Test.TC07()'><b>TC07</b><br>Test class: POM_Testcases.DWS_Computers_Test</td>
+<td></td>
+<td>0</td>
+<td>POM_Testcases.DWS_Computers_Test@6a78afa0</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_apparel_Test.TC09()'><b>TC09</b><br>Test class: POM_Testcases.DWS_apparel_Test</td>
+<td></td>
+<td>1</td>
+<td>POM_Testcases.DWS_apparel_Test@dd05255</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_wishlist_Test.TC05()'><b>TC05</b><br>Test class: POM_Testcases.DWS_wishlist_Test</td>
+<td></td>
+<td>0</td>
+<td>POM_Testcases.DWS_wishlist_Test@3b69e7d1</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_electronics_Test.TC08()'><b>TC08</b><br>Test class: POM_Testcases.DWS_electronics_Test</td>
+<td></td>
+<td>5</td>
+<td>POM_Testcases.DWS_electronics_Test@4c402120</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_facebook_Test.TC17()'><b>TC17</b><br>Test class: POM_Testcases.DWS_facebook_Test</td>
+<td></td>
+<td>0</td>
+<td>POM_Testcases.DWS_facebook_Test@4c12331b</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_search_test.TC03()'><b>TC03</b><br>Test class: POM_Testcases.DWS_search_test<br>Parameters: computers</td>
+<td></td>
+<td>0</td>
+<td>POM_Testcases.DWS_search_test@7e6f74c</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_jewelry_Test.TC11()'><b>TC11</b><br>Test class: POM_Testcases.DWS_jewelry_Test</td>
+<td></td>
+<td>1</td>
+<td>POM_Testcases.DWS_jewelry_Test@3c41ed1d</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_news_letter_subscribe.TC13()'><b>TC13</b><br>Test class: POM_Testcases.DWS_news_letter_subscribe<br>Parameters: chetanmkumar97@gmail.com</td>
+<td></td>
+<td>0</td>
+<td>POM_Testcases.DWS_news_letter_subscribe@7586beff</td></tr>
+<tr>
+<td title='POM_Testcases.DWS_Login_Test.TC01()'><b>TC01</b><br>Test class: POM_Testcases.DWS_Login_Test</td>
+<td></td>
+<td>1</td>
+<td>POM_Testcases.DWS_Login_Test@2f4948e4</td></tr>
+</table><p>
+</body>
+</html>

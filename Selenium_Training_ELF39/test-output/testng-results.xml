@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T15:59:39 IST" name="Suite" finished-at="2022-11-21T16:02:39 IST" duration-ms="180379">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T15:59:39 IST" name="Test" finished-at="2022-11-21T16:02:39 IST" duration-ms="180379">
+      <class name="POM_Testcases.DWS_news_letter_subscribe">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_news_letter_subscribe@7586beff]" started-at="2022-11-21T16:00:53 IST" name="BrowserSetup" finished-at="2022-11-21T16:01:00 IST" duration-ms="7724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC13(java.lang.String)[pri:0, instance:POM_Testcases.DWS_news_letter_subscribe@7586beff]" started-at="2022-11-21T16:01:01 IST" name="TC13" data-provider="Testdata" finished-at="2022-11-21T16:01:01 IST" duration-ms="264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chetanmkumar97@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC13 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_news_letter_subscribe@7586beff]" started-at="2022-11-21T16:01:01 IST" name="Teardown" finished-at="2022-11-21T16:01:02 IST" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_news_letter_subscribe -->
+      <class name="POM_Testcases.DWS_wishlist_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_wishlist_Test@3b69e7d1]" started-at="2022-11-21T16:01:02 IST" name="BrowserSetup" finished-at="2022-11-21T16:01:09 IST" duration-ms="6920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC05()[pri:0, instance:POM_Testcases.DWS_wishlist_Test@3b69e7d1]" started-at="2022-11-21T16:01:09 IST" name="TC05" finished-at="2022-11-21T16:01:09 IST" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_wishlist_Test@3b69e7d1]" started-at="2022-11-21T16:01:09 IST" name="Teardown" finished-at="2022-11-21T16:01:10 IST" duration-ms="868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_wishlist_Test -->
+      <class name="POM_Testcases.DWS_facebook_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_facebook_Test@4c12331b]" started-at="2022-11-21T16:00:45 IST" name="BrowserSetup" finished-at="2022-11-21T16:00:53 IST" duration-ms="7225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC17()[pri:0, instance:POM_Testcases.DWS_facebook_Test@4c12331b]" started-at="2022-11-21T16:00:53 IST" name="TC17" finished-at="2022-11-21T16:00:53 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC17 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_facebook_Test@4c12331b]" started-at="2022-11-21T16:00:53 IST" name="Teardown" finished-at="2022-11-21T16:00:53 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_facebook_Test -->
+      <class name="POM_Testcases.DWS_Computers_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_Computers_Test@6a78afa0]" started-at="2022-11-21T16:02:11 IST" name="BrowserSetup" finished-at="2022-11-21T16:02:18 IST" duration-ms="7044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC07()[pri:0, instance:POM_Testcases.DWS_Computers_Test@6a78afa0]" started-at="2022-11-21T16:02:18 IST" name="TC07" finished-at="2022-11-21T16:02:19 IST" duration-ms="976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_Computers_Test@6a78afa0]" started-at="2022-11-21T16:02:19 IST" name="Teardown" finished-at="2022-11-21T16:02:20 IST" duration-ms="808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_Computers_Test -->
+      <class name="POM_Testcases.DWS_search_test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_search_test@7e6f74c]" started-at="2022-11-21T16:01:53 IST" name="BrowserSetup" finished-at="2022-11-21T16:02:01 IST" duration-ms="7889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC03(java.lang.String)[pri:0, instance:POM_Testcases.DWS_search_test@7e6f74c]" started-at="2022-11-21T16:02:02 IST" name="TC03" data-provider="Testdata" finished-at="2022-11-21T16:02:02 IST" duration-ms="221" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[computers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_search_test@7e6f74c]" started-at="2022-11-21T16:02:02 IST" name="Teardown" finished-at="2022-11-21T16:02:02 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_search_test -->
+      <class name="POM_Testcases.DWS_digitaldownload_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_digitaldownload_Test@1165b38]" started-at="2022-11-21T16:00:36 IST" name="BrowserSetup" finished-at="2022-11-21T16:00:44 IST" duration-ms="8075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC10()[pri:0, instance:POM_Testcases.DWS_digitaldownload_Test@1165b38]" started-at="2022-11-21T16:00:44 IST" name="TC10" finished-at="2022-11-21T16:00:45 IST" duration-ms="884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_digitaldownload_Test@1165b38]" started-at="2022-11-21T16:00:45 IST" name="Teardown" finished-at="2022-11-21T16:00:45 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_digitaldownload_Test -->
+      <class name="POM_Testcases.DWS_Register_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_Register_Test@6150c3ec]" started-at="2022-11-21T16:01:34 IST" name="BrowserSetup" finished-at="2022-11-21T16:01:41 IST" duration-ms="6948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC02(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:POM_Testcases.DWS_Register_Test@6150c3ec]" started-at="2022-11-21T16:01:41 IST" name="TC02" data-provider="Testdata" finished-at="2022-11-21T16:01:43 IST" duration-ms="1642" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chetan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chetanmkumar070@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[chetan12]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chetan12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_Register_Test@6150c3ec]" started-at="2022-11-21T16:01:43 IST" name="Teardown" finished-at="2022-11-21T16:01:43 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_Register_Test -->
+      <class name="POM_Testcases.DWS_Tricentis">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_Tricentis@5542c4ed]" started-at="2022-11-21T16:01:18 IST" name="BrowserSetup" finished-at="2022-11-21T16:01:25 IST" duration-ms="6432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC15()[pri:0, instance:POM_Testcases.DWS_Tricentis@5542c4ed]" started-at="2022-11-21T16:01:25 IST" name="TC15" finished-at="2022-11-21T16:01:26 IST" duration-ms="937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC15 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_Tricentis@5542c4ed]" started-at="2022-11-21T16:01:26 IST" name="Teardown" finished-at="2022-11-21T16:01:26 IST" duration-ms="417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_Tricentis -->
+      <class name="POM_Testcases.DWS_Login_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_Login_Test@2f4948e4]" started-at="2022-11-21T16:02:20 IST" name="BrowserSetup" finished-at="2022-11-21T16:02:27 IST" duration-ms="7905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC01()[pri:0, instance:POM_Testcases.DWS_Login_Test@2f4948e4]" started-at="2022-11-21T16:02:27 IST" name="TC01" finished-at="2022-11-21T16:02:29 IST" duration-ms="1854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_Login_Test@2f4948e4]" started-at="2022-11-21T16:02:29 IST" name="Teardown" finished-at="2022-11-21T16:02:30 IST" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_Login_Test -->
+      <class name="POM_Testcases.DWS_Books_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_Books_Test@1f2586d6]" started-at="2022-11-21T16:02:30 IST" name="BrowserSetup" finished-at="2022-11-21T16:02:38 IST" duration-ms="7998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC06()[pri:0, instance:POM_Testcases.DWS_Books_Test@1f2586d6]" started-at="2022-11-21T16:02:38 IST" name="TC06" finished-at="2022-11-21T16:02:39 IST" duration-ms="1053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_Books_Test@1f2586d6]" started-at="2022-11-21T16:02:39 IST" name="Teardown" finished-at="2022-11-21T16:02:39 IST" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_Books_Test -->
+      <class name="POM_Testcases.DWS_jewlry_select_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_jewlry_select_Test@2d1ef81a]" started-at="2022-11-21T15:59:50 IST" name="BrowserSetup" finished-at="2022-11-21T15:59:57 IST" duration-ms="7306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC16(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:POM_Testcases.DWS_jewlry_select_Test@2d1ef81a]" started-at="2022-11-21T15:59:58 IST" name="TC16" data-provider="DWS_Jewellery" finished-at="2022-11-21T16:00:04 IST" duration-ms="6108" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC16 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_jewlry_select_Test@2d1ef81a]" started-at="2022-11-21T16:00:04 IST" name="Teardown" finished-at="2022-11-21T16:00:05 IST" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_jewlry_select_Test -->
+      <class name="POM_Testcases.DWS_contact_us">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_contact_us@327514f]" started-at="2022-11-21T16:00:19 IST" name="BrowserSetup" finished-at="2022-11-21T16:00:26 IST" duration-ms="6683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC02(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:POM_Testcases.DWS_contact_us@327514f]" started-at="2022-11-21T16:00:26 IST" name="TC02" data-provider="Testdata" finished-at="2022-11-21T16:00:28 IST" duration-ms="1766" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHETAN M  KUMAR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chetanmkumar97@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_contact_us@327514f]" started-at="2022-11-21T16:00:28 IST" name="Teardown" finished-at="2022-11-21T16:00:28 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_contact_us -->
+      <class name="POM_Testcases.DWS_apparel_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_apparel_Test@dd05255]" started-at="2022-11-21T16:02:02 IST" name="BrowserSetup" finished-at="2022-11-21T16:02:09 IST" duration-ms="7031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC09()[pri:0, instance:POM_Testcases.DWS_apparel_Test@dd05255]" started-at="2022-11-21T16:02:09 IST" name="TC09" finished-at="2022-11-21T16:02:10 IST" duration-ms="1221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC09 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_apparel_Test@dd05255]" started-at="2022-11-21T16:02:10 IST" name="Teardown" finished-at="2022-11-21T16:02:11 IST" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_apparel_Test -->
+      <class name="POM_Testcases.DWS_voting_poll">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_voting_poll@5b12b668]" started-at="2022-11-21T16:00:28 IST" name="BrowserSetup" finished-at="2022-11-21T16:00:35 IST" duration-ms="6949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC14()[pri:0, instance:POM_Testcases.DWS_voting_poll@5b12b668]" started-at="2022-11-21T16:00:35 IST" name="TC14" finished-at="2022-11-21T16:00:35 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC14 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_voting_poll@5b12b668]" started-at="2022-11-21T16:00:35 IST" name="Teardown" finished-at="2022-11-21T16:00:36 IST" duration-ms="747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_voting_poll -->
+      <class name="POM_Testcases.DWS_electronics_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_electronics_Test@4c402120]" started-at="2022-11-21T16:00:05 IST" name="BrowserSetup" finished-at="2022-11-21T16:00:13 IST" duration-ms="8109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC08()[pri:0, instance:POM_Testcases.DWS_electronics_Test@4c402120]" started-at="2022-11-21T16:00:13 IST" name="TC08" finished-at="2022-11-21T16:00:19 IST" duration-ms="5762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_electronics_Test@4c402120]" started-at="2022-11-21T16:00:19 IST" name="Teardown" finished-at="2022-11-21T16:00:19 IST" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_electronics_Test -->
+      <class name="POM_Testcases.DWS_Advance_Search_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_Advance_Search_Test@44c03695]" started-at="2022-11-21T16:01:43 IST" name="BrowserSetup" finished-at="2022-11-21T16:01:50 IST" duration-ms="7119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC18(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:POM_Testcases.DWS_Advance_Search_Test@44c03695]" started-at="2022-11-21T16:01:51 IST" name="TC18" data-provider="testdata" finished-at="2022-11-21T16:01:53 IST" duration-ms="2582" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[computers]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[90000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC18 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_Advance_Search_Test@44c03695]" started-at="2022-11-21T16:01:53 IST" name="Teardown" finished-at="2022-11-21T16:01:53 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_Advance_Search_Test -->
+      <class name="POM_Testcases.DWS_jewelry_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_jewelry_Test@3c41ed1d]" started-at="2022-11-21T15:59:39 IST" name="BrowserSetup" finished-at="2022-11-21T15:59:48 IST" duration-ms="9010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC11()[pri:0, instance:POM_Testcases.DWS_jewelry_Test@3c41ed1d]" started-at="2022-11-21T15:59:48 IST" name="TC11" finished-at="2022-11-21T15:59:49 IST" duration-ms="1207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC11 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_jewelry_Test@3c41ed1d]" started-at="2022-11-21T15:59:49 IST" name="Teardown" finished-at="2022-11-21T15:59:50 IST" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_jewelry_Test -->
+      <class name="POM_Testcases.DWS_Shopping_kart_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_Shopping_kart_Test@1573f9fc]" started-at="2022-11-21T16:01:26 IST" name="BrowserSetup" finished-at="2022-11-21T16:01:33 IST" duration-ms="6933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC04()[pri:0, instance:POM_Testcases.DWS_Shopping_kart_Test@1573f9fc]" started-at="2022-11-21T16:01:33 IST" name="TC04" finished-at="2022-11-21T16:01:34 IST" duration-ms="945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_Shopping_kart_Test@1573f9fc]" started-at="2022-11-21T16:01:34 IST" name="Teardown" finished-at="2022-11-21T16:01:34 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_Shopping_kart_Test -->
+      <class name="POM_Testcases.DWS_giftcards_Test">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:POM_Testcases.DWS_giftcards_Test@815b41f]" started-at="2022-11-21T16:01:10 IST" name="BrowserSetup" finished-at="2022-11-21T16:01:17 IST" duration-ms="6981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC12()[pri:0, instance:POM_Testcases.DWS_giftcards_Test@815b41f]" started-at="2022-11-21T16:01:17 IST" name="TC12" finished-at="2022-11-21T16:01:18 IST" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC12 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:POM_Testcases.DWS_giftcards_Test@815b41f]" started-at="2022-11-21T16:01:18 IST" name="Teardown" finished-at="2022-11-21T16:01:18 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- POM_Testcases.DWS_giftcards_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
